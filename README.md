@@ -24,6 +24,6 @@ Also, if the application can display messages in accordance with the measurement
 #images
 [Link to testImage: https://cloud.githubusercontent.com/assets/8938083/6871016/c0309fb2-d4c5-11e4-9045-dfad639e270c.jpg]
 
-[Link to console output: https://cloud.githubusercontent.com/assets/8938083/6873090/c90c7c92-d4d3-11e4-9c57-b8126717c12a.jpg]
+[Link to sample output (running console): https://cloud.githubusercontent.com/assets/8938083/6873090/c90c7c92-d4d3-11e4-9c57-b8126717c12a.jpg]
 
-[Link to processed image grayscale|marked blobs: https://cloud.githubusercontent.com/assets/8938083/6873123/0563aa94-d4d4-11e4-8ba8-fd0387b2a57b.jpg]
+[Link to processed image (grayscale|marked blobs): https://cloud.githubusercontent.com/assets/8938083/6873123/0563aa94-d4d4-11e4-8ba8-fd0387b2a57b.jpg]
