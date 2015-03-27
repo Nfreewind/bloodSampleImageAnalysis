@@ -8,6 +8,7 @@
 using namespace cv;
 using namespace std;
 
+
 vector<double> measureVolume(Mat image)//detects blobs and calculates volume (in terms of pixel intensity)
 {
     //Basic structure of the function:
@@ -74,6 +75,7 @@ vector<double> measureVolume(Mat image)//detects blobs and calculates volume (in
     return retval;//return back the volumes of detected blobs
 }
 
+
 pair<double, double> calcMuSigma(vector<double> vol)//return mean and std. deviation of given data (volumes)
 {
     // Calculates mean and standard deviation of given vector <double>,
@@ -110,6 +112,7 @@ pair<double, double> calcMuSigma(vector<double> vol)//return mean and std. devia
     return retval;//returns the ordered pair: (mu, sigma)
 }
 
+
 vector<double> Normalize(vector<double> vol)//scales the volume to [0,1] interval
 {
 
@@ -134,6 +137,7 @@ vector<double> Normalize(vector<double> vol)//scales the volume to [0,1] interva
     }
     return vol;//return scaled volumes for relative comparison
 }
+
 
 int main()
 {
