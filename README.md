@@ -19,8 +19,6 @@ Also, if the application can display messages in accordance with the measurement
 
 -header.h links all the function files together
 
--testImage is available in the 'Issues' section 
-
 #images
 [Link to testImage: https://cloud.githubusercontent.com/assets/8938083/6871016/c0309fb2-d4c5-11e4-9045-dfad639e270c.jpg]
 
