@@ -14,12 +14,12 @@ testImage is available in the 'Issues' section
 
 File descriptions:
 
-Run the main.cpp to call functions.
+-Run the main.cpp to call functions.
 
-measureVolume.cpp detects blobs and calculates volume (in terms of pixel intensity)
+-measureVolume.cpp detects blobs and calculates volume (in terms of pixel intensity)
 
-calcMuSigma.cpp returns mean and std. deviation of given data
+-calcMuSigma.cpp returns mean and std. deviation of given data
 
-Normalize.cpp scales the volume to [0,1] interval
+-Normalize.cpp scales the volume to [0,1] interval
 
-header.h links all the function files together
+-header.h links all the function files together
