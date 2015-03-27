@@ -138,7 +138,7 @@ vector<double> Normalize(vector<double> vol)//scales the volume to [0,1] interva
 int main()
 {
     Mat image;//initialize a matrix to store the image
-    image = imread("C:/Users/student/Desktop/adc/VIT/GSOC/helikar/COW5.jpg", 1);//read the image
+    image = imread("testImage.jpg", 1);//read the image
 
     resize(image, image, Size(320, 480));//resize the image
 
