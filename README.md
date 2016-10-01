@@ -6,6 +6,8 @@ Such a project will be of great importance to the community. Detecting cancer bi
 
 Also, if the application can display messages in accordance with the measurements, the user need not be a practitioner of medicine or a trained professional. By following simple instructions anyone can obtain analysis on a drop of blood in a cost-effective manner.
 
+This was done as a part of Helikar Lab preliminary proposal for Google Summer of Code 2015.
+(Did not get accepted)
 
 #File descriptions
 
